@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Haren</h1>
+<h3 align="center">A student developer from London</h3>
 
-<!--
-**harens/harens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img alt="MacPorts Badge" src="https://img.shields.io/badge/macports-maintainer-mediumturquoise?logo=Apple&logoColor=white">
+  <img alt="Years Badge" src="https://badges.pufler.dev/years/harens">
+  <img alt="Visitors Badge" src="https://visitor-badge.glitch.me/badge?page_id=harens.harens">
+</p>
 
-Here are some ideas to get you started:
+<br>
+<p align="center">
+  <b>What do I do?</b><br>
+  🔭 I’m currently working with macOS package managers, including <a href="https://www.macports.org">MacPorts</a> and <a href="https://brew.sh">Homebrew</a>.
+  <br>
+  🌱 I’m learning C# as part of A Level Computer Science.
+  <br>
+  ❤️ I enjoy working with Python in my free time.
+  <br><br>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<p align="center">
+<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=harens&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=79ff97&custom_title=Github Stats">
+</p>
