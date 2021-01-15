@@ -3,10 +3,13 @@
 
 <p align="center">
   <a href="https://ports.macports.org/maintainer/github/harens/">
-    <img alt="MacPorts Badge" src="https://img.shields.io/badge/macports-maintainer-mediumturquoise?logo=Apple&logoColor=white">
+    <img alt="MacPorts Badge" src="https://img.shields.io/badge/MacPorts-Maintainer-mediumturquoise?logo=Apple&logoColor=white">
   </a>
-  <img alt="Years Badge" src="https://badges.pufler.dev/years/harens">
   <img alt="Visitors Badge" src="https://visitor-badge.glitch.me/badge?page_id=harens.harens">
+  <img alt="Years Badge" src="https://badges.pufler.dev/years/harens">
+  <a href="https://www.linkedin.com/in/harensamarasinghe/">
+    <img alt="Linkedin Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+  </a>
 </p>
 
 <br>
