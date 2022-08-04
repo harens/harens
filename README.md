@@ -6,7 +6,7 @@
     <img alt="MacPorts Badge" src=https://img.shields.io/badge/-MacPorts%20Maintainer-blue?style=flat&logo=apple>
   </a>
   <a href="https://github.com/harens/">
-    <img alt="Years Badge" src="https://badges.pufler.dev/years/harens?style=flat&logo=GitHub&labelColor=0F7D63&color=0F7D63">
+    <img alt="Years Badge" src="https://badges.strrl.dev/years/harens?style=flat&logo=GitHub&labelColor=0F7D63&color=0F7D63">
   </a>
   <a href="https://www.linkedin.com/in/harensamarasinghe/">
     <img alt="Linkedin Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
