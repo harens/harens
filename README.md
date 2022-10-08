@@ -18,13 +18,8 @@
   <b>What do I do?</b><br>
   🔭 I’m currently working with macOS package managers, including <a href="https://www.macports.org">MacPorts</a> and <a href="https://brew.sh">Homebrew</a>.
   <br>
-  🌱 I’m learning C# as part of A Level Computer Science.
+  📚 I’m studying Computing at <a href="https://www.imperial.ac.uk/">Imperial College London</a>.
   <br>
   ❤️ I enjoy working with Python in my free time.
   <br><br>
-</p>
-
-<br>
-<p align="center">
-<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=harens&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=79ff97&custom_title=Github Stats">
 </p>
